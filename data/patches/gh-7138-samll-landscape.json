@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "Samll landscape",
+	"description": "A small landscape with a sun and a flower",
+	"links": {},
+	"path": {
+		"180-257": [
+			[
+				392,
+				-944
+			],
+			[
+				378,
+				-944
+			],
+			[
+				378,
+				-956
+			],
+			[
+				392,
+				-956
+			]
+		]
+	},
+	"center": {
+		"180-257": [
+			385,
+			-950
+		]
+	}
+}
